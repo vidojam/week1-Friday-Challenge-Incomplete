@@ -95,14 +95,12 @@ console.log(totalOdds)
 
 const multiTable = num => {
   for (let i = 0; i < 10; i++) {
-     return(i);
-    // for (let i = 0; i < 10; i++) {
-    //     return(i)
-    // }
+     return(i);   
+     
   }
 }
 
-const res3 = console.log.table(multiTable);
+const res3 = console.log(multiTable);
 
 // 7) isPalinadrome
 
